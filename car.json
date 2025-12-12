@@ -1,0 +1,10 @@
+{
+  "model": "Renault Logan",
+  "year": 2019,
+  "color": "White",
+  "engine": {
+    "type": "K7M",
+    "volume": "1.6L"
+  },
+  "has_sunroof": false
+}
